@@ -41,7 +41,24 @@
     background: white;
 }
 
+.user-icons {
+    display: flex;
+    align-items: center;
+}
+
+.cart-icon-container {
+    display: flex;
+    align-items: center;
+}
+
 .icon-user {
     color: white;
     font-size: 24px;
+    margin: 0 10px;
+}
+
+.cart-number {
+    color: #fff;
+    font-size: 20px;
+    margin-top: 2px;
 }
